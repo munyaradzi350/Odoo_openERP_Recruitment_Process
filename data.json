@@ -1,0 +1,26 @@
+
+{
+    "createJobPosting": {
+      "job_data": {
+        "job_title": "Operations Manager",
+        "department_id": 2,
+        "address_id": 1,
+        "description": "We are hiring a skilled Operations Manager.",
+        "requirements": "Bachelor's degree in Business Accounting, experience with Odoo openERP and Microsoft packages."
+      }
+    },
+    "updateJobPosting": {
+      "job_data": {
+        "name": "Updated Operations Manager Title",
+        "department_id": 3,
+        "address_id": 2,
+        "description": "We are updating the Operations Manager job details.",
+        "requirements": "Updated requirements for the Operations Manager position."
+      }
+    },
+    "deleteJobPosting": {
+      "job_id": 123
+    }
+
+  }
+  
